@@ -1,6 +1,10 @@
 # forest_floor_painter
 A tool for drawing forest mask for Arma 3
 
+Made using Python 3 and Kivy for GUI. I know you guys suck at inputing command line parameters :P
+
+
+
 How to use?
 
 1. Export your objects from TB. Custom format, x and y position only. Include headers!
